@@ -1,0 +1,1 @@
+All the files that will be processed should be stored here.
